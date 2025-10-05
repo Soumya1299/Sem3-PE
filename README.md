@@ -2,9 +2,9 @@
 This work was done as a part of Project Elective with Dr. Kurian Polachan, IIIT-Bangalore.
 **
 
-Run inference of a IRIS dataset in PSoC-6 using Modustoolbox ML APIs(The inputs are hardcoded)
-Work Done:
-Multiclass classification model is built on IRIS dataset to classify among the 3 classes of IRIS flower namely setosa, versicolor & virginica. 
+To: Run inference of a IRIS dataset in PSoC-6 using Modustoolbox ML APIs(The inputs are hardcoded)
+
+Work Done: Multiclass classification model is built on IRIS dataset to classify among the 3 classes of IRIS flower namely setosa, versicolor & virginica. 
 Tools used: Google Collab, ModudToolbox, PuTTy
 Overview:
 •	Built the model.
