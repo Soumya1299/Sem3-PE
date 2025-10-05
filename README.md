@@ -51,5 +51,5 @@ Changes Done in Makefile:
 •	Here: TF_LITE_STATIC_MEMORY uses static memory allocation for TFLite Micro.
 
  
-Output of the tinyML model run on CY8CPROTO-063BLE board. COM-4 port and putty terminal is used to display the output communicated from PsoC to PC via UART.
+Inference of the tinyML model is run on CY8CPROTO-063BLE board. COM-4 port and putty terminal is used to display the output communicated from PsoC to PC via UART.
 
